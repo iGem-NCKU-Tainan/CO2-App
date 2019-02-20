@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e40abc6481e78c3e0beac3862cbb666\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\6c318ec4711f4cc249b8964f015a2a6b\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:16.0.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\95cf13d6d710d7e6c7d609a97c2c7780\AndroidManifest.xml:2:1-8:12
@@ -24,39 +24,39 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] D:\AndroidStudio\.gradl
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12dd75580c508c219c752cde2b7bcb29\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3f0d97d312373a28e1098731d60846a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73f6f2c4fa28b63ea1379c3229af3969\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-database-connection:16.0.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\c98e9ac93ceaacbed3f47ee516a268bd\AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-database-connection:16.0.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\c98e9ac93ceaacbed3f47ee516a268bd\AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:7:22-63
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:7:22-63
 application
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:9:5-33:19
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:9:5-33:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\6c318ec4711f4cc249b8964f015a2a6b\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\6c318ec4711f4cc249b8964f015a2a6b\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-common:16.0.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\d6e2c543df2d4b9d1d9c7219a0081fbb\AndroidManifest.xml:8:5-14:19
@@ -68,65 +68,65 @@ MERGED from [com.google.android.gms:play-services-basement:15.0.1] D:\AndroidStu
 MERGED from [com.android.support:support-v4:26.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0b29e95187913b147dd3e3b710e9c7ad\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0b29e95187913b147dd3e3b710e9c7ad\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:12:9-42
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:12:9-42
 	android:allowBackup
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:10:9-39
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:10:9-39
 activity#com.ncku_tainan.co2_detection.Home
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:17:19-39
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:17:19-39
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:21:27-74
 activity#com.ncku_tainan.co2_detection.MainActivity
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:24:9-50
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:24:19-47
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:24:19-47
 activity#com.ncku_tainan.co2_detection.AboutUs
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:25:9-45
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:25:9-45
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:25:19-42
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:25:19-42
 activity#com.ncku_tainan.co2_detection.Concentration
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:26:9-51
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:26:19-48
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:26:19-48
 activity#com.ncku_tainan.co2_detection.pH_value
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:27:9-46
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:27:9-46
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:27:19-43
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:27:19-43
 activity#com.ncku_tainan.co2_detection.Temperature
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:28:9-49
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:28:19-46
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:28:19-46
 service#com.ncku_tainan.co2_detection.MyService
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:30:9-46
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:30:9-46
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:30:18-43
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:30:18-43
 activity#com.ncku_tainan.co2_detection.Switch
-ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:32:9-53
+ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:32:9-53
 	android:name
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml:32:19-41
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml:32:19-41
 uses-sdk
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:27.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e40abc6481e78c3e0beac3862cbb666\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e40abc6481e78c3e0beac3862cbb666\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.1] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\6c318ec4711f4cc249b8964f015a2a6b\AndroidManifest.xml:5:5-7:41
@@ -167,18 +167,18 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] D:\AndroidStudio\.gradle\cach
 MERGED from [android.arch.lifecycle:runtime:1.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3f0d97d312373a28e1098731d60846a\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73f6f2c4fa28b63ea1379c3229af3969\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73f6f2c4fa28b63ea1379c3229af3969\AndroidManifest.xml:20:5-44
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:26.1.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0b29e95187913b147dd3e3b710e9c7ad\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\CO2_Detection-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\CO2-App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CO2-App\app\src\main\AndroidManifest.xml
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:16.0.0] D:\AndroidStudio\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\d6e2c543df2d4b9d1d9c7219a0081fbb\AndroidManifest.xml:9:9-13:39
 	android:authorities

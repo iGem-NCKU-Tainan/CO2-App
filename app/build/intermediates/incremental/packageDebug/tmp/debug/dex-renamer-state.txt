@@ -1,4 +1,4 @@
-#Sun Nov 04 13:57:47 CST 2018
-base.0=D\:\\CO2_Detection-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Feb 20 12:14:53 CST 2019
+base.0=D\:\\CO2-App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

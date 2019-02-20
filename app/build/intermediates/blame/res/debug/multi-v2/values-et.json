@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\CO2_Detection-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "D:\\CO2-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "D:\\AndroidStudio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\267e45b075f53cdd139569c019b189d5\\res\\values-et\\values-et.xml",
