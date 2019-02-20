@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "129767393026",
+    "firebase_url": "https://co2-app.firebaseio.com",
+    "project_id": "co2-app",
+    "storage_bucket": "co2-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129767393026:android:91a7d949e9839386",
+        "android_client_info": {
+          "package_name": "com.ncku_tainan.co2_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129767393026-a9vv6rvkcfou582cfuep2gfjf36j0j5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncku_tainan.co2_detection",
+            "certificate_hash": "fc0ede5464527f0ad2e06535e39accfe22c182c6"
+          }
+        },
+        {
+          "client_id": "129767393026-rk9n8j723pljk225bkaa6l865liblp6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncku_tainan.co2_detection",
+            "certificate_hash": "4da17a7a28a1585524e2a56e68638466ffe7b388"
+          }
+        },
+        {
+          "client_id": "129767393026-k1rq6kvl8rk6gce3mesjdu6o7rj8d7rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncku_tainan.co2_detection",
+            "certificate_hash": "3195941224dd926285e668c642c82b1130a40e6c"
+          }
+        },
+        {
+          "client_id": "129767393026-s1sl030n2g9v15eomr84h2b2eaicg0m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtDqnWOVqRu_qkp4nRZ2F4bU0Hn1_urY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129767393026-s1sl030n2g9v15eomr84h2b2eaicg0m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
